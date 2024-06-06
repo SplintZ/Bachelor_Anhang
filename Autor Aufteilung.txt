@@ -1,0 +1,21 @@
+Einleitung
+	-Motivation: Jan Metzler
+	-Beschreibung der Myopathien: Emily Metzler
+	-Ergebnisse der Arbeit von Johanna Iben: Jan Metzler
+	-Erhebung der Daten: Emily Metzler
+
+Methodik: Jan Metzler
+
+Ergebnisse
+	-Rückprojektion: Emily Metzler
+	-Klassifikation
+		-Dimensionsreduktion: Jan Metzler
+		-Klassifikationsgrenzen: Emily Metzler
+		-Validierung: Jan Metzler
+
+Diskussion 
+	-Rückprojektion: Emily Metzler
+	-Klassifikation: Jan Metzler
+
+Ausblick: Emily Metzler
+
